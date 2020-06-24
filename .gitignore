@@ -1,0 +1,55 @@
+# Project exclude paths
+/.gradle/
+/Problems/Check sudoku/out/
+/Problems/Check sudoku/out/production/classes/
+/Problems/Cinema/out/
+/Problems/Cinema/out/production/classes/
+/Problems/Compression algorithm/out/
+/Problems/Compression algorithm/out/production/classes/
+/Problems/Create an euphonious word/out/
+/Problems/Create an euphonious word/out/production/classes/
+/Problems/Cutting out the middle of a string/out/
+/Problems/Cutting out the middle of a string/out/production/classes/
+/Problems/Double characters/out/
+/Problems/Double characters/out/production/classes/
+/Problems/Fill the matrix by numbers/out/
+/Problems/Fill the matrix by numbers/out/production/classes/
+/Problems/Find the first occurrence of the word  the/out/
+/Problems/Find the first occurrence of the word  the/out/production/classes/
+/Problems/Generating passwords/out/
+/Problems/Generating passwords/out/production/classes/
+/Problems/Maximum element in a matrix/out/
+/Problems/Maximum element in a matrix/out/production/classes/
+/Problems/Move the first N characters/out/
+/Problems/Move the first N characters/out/production/classes/
+/Problems/Number of occurrences/out/
+/Problems/Number of occurrences/out/production/classes/
+/Problems/Palindrome/out/
+/Problems/Palindrome/out/production/classes/
+/Problems/Parse url/out/
+/Problems/Parse url/out/production/classes/
+/Problems/Piece of alphabet/out/
+/Problems/Piece of alphabet/out/production/classes/
+/Problems/Pretty looking pattern/out/
+/Problems/Pretty looking pattern/out/production/classes/
+/Problems/Rotate a rectange array/out/
+/Problems/Rotate a rectange array/out/production/classes/
+/Problems/Spiral/out/
+/Problems/Spiral/out/production/classes/
+/Problems/Sum of neighbors/out/
+/Problems/Sum of neighbors/out/production/classes/
+/Problems/Swap the columns/out/
+/Problems/Swap the columns/out/production/classes/
+/Problems/Symmetric matrix/out/
+/Problems/Symmetric matrix/out/production/classes/
+/Problems/The longest word/out/
+/Problems/The longest word/out/production/classes/
+/Problems/The lucky ticket/out/
+/Problems/The lucky ticket/out/production/classes/
+/Problems/The percentage of G and C characters/out/
+/Problems/The percentage of G and C characters/out/production/classes/
+/Problems/The star figure/out/
+/Problems/The star figure/out/production/classes/
+/Tic-Tac-Toe/task/build/
+/Tic-Tac-Toe/task/out/
+/Tic-Tac-Toe/task/out/production/classes/
